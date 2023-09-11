@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/front_fullstack/static/css/main.04770fff.css",
+    "main.js": "/front_fullstack/static/js/main.80b06227.js",
+    "static/media/img_home.png": "/front_fullstack/static/media/img_home.26afe86cd52f2166ce8b.png",
+    "static/media/cadastroanimal.png": "/front_fullstack/static/media/cadastroanimal.c155db333ec2581104b1.png",
+    "static/media/logo_ong.png": "/front_fullstack/static/media/logo_ong.1cba24116b5882ccf507.png",
+    "static/media/vector-2.svg": "/front_fullstack/static/media/vector-2.be6b969b23ef9068ea788a3b43a5c4b6.svg",
+    "static/media/vector-1.svg": "/front_fullstack/static/media/vector-1.66f4b4c5c848bff9c0c8932f33d0d7e6.svg",
+    "static/media/vector-3.svg": "/front_fullstack/static/media/vector-3.5db8d58864e31ef14ecca5d93286a2b4.svg",
+    "index.html": "/front_fullstack/index.html",
+    "static/media/line-1.svg": "/front_fullstack/static/media/line-1.267f840b90cc7a83fec879f7991c532b.svg",
+    "static/media/line-4.svg": "/front_fullstack/static/media/line-4.79abca72ccd607f03c754505413998ff.svg",
+    "main.04770fff.css.map": "/front_fullstack/static/css/main.04770fff.css.map",
+    "main.80b06227.js.map": "/front_fullstack/static/js/main.80b06227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04770fff.css",
+    "static/js/main.80b06227.js"
+  ]
+}
